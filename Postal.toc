@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 120000, 120001
 ## Title: Postal
 ## Version: v4.3.4
 ## X-Build: 663
