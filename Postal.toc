@@ -1,6 +1,6 @@
 ## Interface: 120000, 120001
 ## Title: Postal
-## Version: v4.3.4
+## Version: v4.3.5
 ## X-Build: 663
 ## X-ReleaseDate: 2025-10-29T20:49:10Z
 ## X-Revision: 663
